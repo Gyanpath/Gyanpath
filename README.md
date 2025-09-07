@@ -33,10 +33,4 @@ Subjects Offered:
 | Geography                   | Criminology           |
 
 
-📬 **Connect with us**  
-📍 *Bayalasi PG College, Jalalpur, Jaunpur, U.P.*  
-📧 *gyanpath.edu[@]example.com* <!-- Replace with actual email -->
-
----
-
 _ज्ञानपथ — जहाँ शिक्षा है सोचने, समझने और बदलाव लाने की शक्ति!_
